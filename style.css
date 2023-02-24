@@ -1,0 +1,22 @@
+body {
+    background-color: #0D0D0D;
+}
+hr{
+    border-color: #F2A7A7;
+    border-style: solid;
+    width: 100%;
+    border-width: 2px;
+
+}
+h1{
+    color: #F23D3D;
+}
+p{
+    color: #F2F2F2;
+}
+h2, h3{
+    color: #F25252;
+}
+td,a,li{
+    color: #F2F2F2;
+}
